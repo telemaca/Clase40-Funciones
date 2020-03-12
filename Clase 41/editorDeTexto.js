@@ -1,4 +1,3 @@
-// "cortar": pide dos números de índice entre los cuáles recortar el texto
 const countLetters = (text) => {
     let x = 0;
     for(let i = 0; i < text.length; i++) {
